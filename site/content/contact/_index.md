@@ -3,9 +3,9 @@ title: Contact
 logo: img/a1eb1a83-1884-4e7a-b991-d5a64fe47ab0.svg
 contact_entries:
   - heading: Location
-    text: 3153 Lynn Avenue, South San Francisco, California 94080
+    text: 2047 Jones Rd, Fort Lee, NJ, 07024
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Monday – Friday: 9AM – 6PM"
 ---
 
 We’d love to get in touch with you and hear your ideas and
