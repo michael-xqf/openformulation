@@ -4,7 +4,16 @@ type: products
 image: /img/products-jumbotron.jpg
 intro:
   heading: Formulation Technology
-  description: Formulation Technology
+  description: "Agrochemicals are formulated as emulsions, suspensions,
+    microemulsions, and various controlled-release systems. Control of the
+    interaction forces between the droplets or particles is essential in
+    achieving the long-term physical stability of the formulation as well as
+    optimum application. Various interaction forces must be considered:
+    attractive van der Waals, repulsive electrostatic, or steric forces.
+    Combination of these interaction forces results in various energy-distance
+    curves that determine the state of the system on storage. It is necessary to
+    control the various processes such as creaming or sedimentation,
+    flocculation, Ostwald ripening, coalescence, and phase inversions. "
   blurbs:
     - image: /img/illustrations-coffee.svg
       text: >
