@@ -1,6 +1,6 @@
 ---
 title: Contact
-logo: img/a1eb1a83-1884-4e7a-b991-d5a64fe47ab0.svg
+logo: img/formulator.jpeg
 contact_entries:
   - heading: Location
     text: 2047 Jones Rd, Fort Lee, NJ, 07024
