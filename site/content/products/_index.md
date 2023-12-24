@@ -1,9 +1,9 @@
 ---
-title: Formulation Technology
+title: Market Segments
 type: products
 image: /img/products-jumbotron.jpg
 intro:
-  heading: Formulation Technology
+  heading: Agchem
   description: "Agrochemicals are formulated as emulsions, suspensions,
     microemulsions, and various controlled-release systems. Control of the
     interaction forces between the droplets or particles is essential in
@@ -15,57 +15,38 @@ intro:
     control the various processes such as creaming or sedimentation,
     flocculation, Ostwald ripening, coalescence, and phase inversions. "
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: img/agrochem.jpeg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Coatings & Adhesives
+  description: >-
+    We provide a comprehensive portfolio including surfactants, polymers and
+    defoamers for state-of-the-art coatings and adhesive applications.
+
+
+    Chemistry is an important component in high performance coatings and adhesive. We continues to propel the adhesives and industrial coatings market forward, making coatings more durable, more functional and safer to produce. The product range enhances the quality and appearance of architectural, automotive, construction, industrial or furniture coatings. With our extensive know-how and expertise, we assist our customers in choosing the right solutions and using them most efficiently.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: img/coating.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Agchem
+    image: img/about-single-origin.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Agchem
+    image: img/formulator.jpeg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+  - author: Tom
+    quote: Good community for formulators
   - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+    quote: Openformulation is the place to go if you want the best quality
+      formulation in Agchem. I love their stance on empowering farmers and
+      transparency.
+full_image: img/about-sustainable-farming.jpg
 pricing:
   heading: Monthly subscriptions
   description: We make it easy to make great coffee a part of your life. Choose
