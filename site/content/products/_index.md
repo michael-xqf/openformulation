@@ -31,7 +31,7 @@ main:
 
     Chemistry is an important component in high performance coatings and adhesive. We continues to propel the adhesives and industrial coatings market forward, making coatings more durable, more functional and safer to produce. The product range enhances the quality and appearance of architectural, automotive, construction, industrial or furniture coatings. With our extensive know-how and expertise, we assist our customers in choosing the right solutions and using them most efficiently.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: A close-up of a paper
     image: img/coating.jpeg
   image2:
     alt: Agchem
